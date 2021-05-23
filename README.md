@@ -2,4 +2,5 @@
 
 
 ### Android
-<img src="https://github.com/chirag-goel360/MusicAppUI/blob/main/android.jpg" width="800" height="1000">
+![](https://github.com/chirag-goel360/MusicAppUI/blob/main/android1.jpg)
+![](https://github.com/chirag-goel360/MusicAppUI/blob/main/android2.jpg)
